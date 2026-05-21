@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>Search Portal</title></head>
+<body>
+    <form action="https://duckduckgo.com/" method="GET">
+        <input type="text" name="q" placeholder="検索ワードを入力">
+        <button type="submit">検索</button>
+    </form>
+</body>
+</html>
